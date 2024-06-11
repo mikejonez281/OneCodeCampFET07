@@ -1,0 +1,19 @@
+Make a directory/folder = mkdir [directory-name]
+
+Remove a directory = rmr [directory-name]
+
+Print/Present Working directory = pwd
+
+List Command = ls 
+
+Clear Terminal Command = clear 
+
+Change directory = cd [directory-path]
+
+Go back one directory =  cd ..
+
+Create files = touch [filename.extension]
+
+Delete files = rm [filename.extension]
+
+

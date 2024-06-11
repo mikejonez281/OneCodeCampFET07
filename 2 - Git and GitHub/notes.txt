@@ -1,0 +1,15 @@
+Check for git version = git --version
+
+Configure Git = git config --global user.name and git config --global user.email
+
+Initialize and empty repository = git init 
+
+Check for the status of the files = git status
+
+Add files to the staging area = git add .
+
+Create a commit = git commit -m "This is the description"
+
+U - Untracked
+M - Modified
+A - Added
