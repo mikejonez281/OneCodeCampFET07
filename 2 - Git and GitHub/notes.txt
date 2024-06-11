@@ -13,3 +13,6 @@ Create a commit = git commit -m "This is the description"
 U - Untracked
 M - Modified
 A - Added
+
+Show History Author, Date, Description = git log
+Show Description Only = git log --oneline
