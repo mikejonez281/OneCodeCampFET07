@@ -10,6 +10,8 @@ Add files to the staging area = git add .
 
 Create a commit = git commit -m "This is the description"
 
+Bypass/Skip Staging Area = git commit -a -m "Description"
+
 U - Untracked
 M - Modified
 A - Added
