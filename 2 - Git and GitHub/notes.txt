@@ -18,3 +18,10 @@ A - Added
 
 Show History Author, Date, Description = git log
 Show Description Only = git log --oneline
+
+List Branches = git branch -a 
+
+Add Branch = git branch [Description]
+
+Switch Branches = git switch [Description]
+
