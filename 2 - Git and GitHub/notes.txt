@@ -27,4 +27,5 @@ Switch Branches = git switch [Description]
 
 Merging Branches = git merge [Description]
 
-Test Merging 123
+Delete Branches = git branch -d [description] "You must be out of that branch"
+
