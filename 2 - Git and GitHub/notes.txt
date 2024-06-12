@@ -25,3 +25,6 @@ Add Branch = git branch [Description]
 
 Switch Branches = git switch [Description]
 
+Merging Branches = git merge [Description]
+
+Test Merging 
