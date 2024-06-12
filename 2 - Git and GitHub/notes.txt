@@ -29,3 +29,5 @@ Merging Branches = git merge [Description]
 
 Delete Branches = git branch -d [description] "You must be out of that branch"
 
+Send repository from local to remote = git push
+
